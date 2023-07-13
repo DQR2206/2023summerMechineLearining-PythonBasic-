@@ -1,2 +1,2 @@
 # 2023summerMechineLearining-PythonBasic-
-机器学习python语言基础
+笔者的本意是整理在暑期准备比赛过程中机器学习部分的一些python代码，会在接下来的一年中不断更新
