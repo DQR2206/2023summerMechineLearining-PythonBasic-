@@ -1,4 +1,4 @@
 # 2023summerMechineLearining-PythonBasic-
-笔者的本意是整理在暑期准备比赛过程中机器学习部分的一些python代码，会在接下来的一年中不断更新。
-其中包含了基础的python语法以及更加偏向于机器学习的python
+torchproject中为关于划分数据集的代码，其中进行了四个版本的保存
+pythonprojet中为一些基础的用法，包含numpy库与matplotlib库
 
